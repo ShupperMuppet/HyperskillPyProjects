@@ -1,4 +1,4 @@
-# HyperskillPyProjects
+# Hyperskill Python Projects
 
 This repository is a collection of Projects which I have completed on Hyperskill.org
 
@@ -6,6 +6,7 @@ This repository is a collection of Projects which I have completed on Hyperskill
 Easy Difficulty
   * Coffee Machine
   * Hangman
+  * Zookeeper
  
  Medium Difficulty
   * Credit Calculator
