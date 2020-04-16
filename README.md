@@ -7,6 +7,8 @@ Easy Difficulty
   * Coffee Machine
   * Hangman
   * Zookeeper
+  * Simple Chatty Bot
+
  
  Medium Difficulty
   * Credit Calculator
