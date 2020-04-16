@@ -8,6 +8,7 @@ Easy Difficulty
   * Hangman
   * Zookeeper
   * Simple Chatty Bot
+  * Tic-Tac-Toe
 
  
  Medium Difficulty
