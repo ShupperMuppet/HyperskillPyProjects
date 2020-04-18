@@ -14,5 +14,5 @@ Easy Difficulty
  Medium Difficulty
   * Credit Calculator
   * Text-Based Browser
-  
+  * Rock-Paper-Scissors
 
